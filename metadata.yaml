@@ -1,0 +1,43 @@
+_repo: A-Woman-s-Will_27225
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caliga, I. H. (Isaac Henry)
+    aliases:
+    - Caliga, J. H. (Isaac Henry)
+    - Caliga, Isaac Henry
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '32555'
+    url: http://www.gutenberg.org/2009/agents/32555
+covers:
+- cover_type: archival
+  image_path: 27225-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anne Warner
+    - French, Anne Richmond Warner
+    - French, Anna Richmond Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: ''
+gutenberg_issued: '2008-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27225'
+  lccn: 04008268
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Travel -- Fiction'
+title: A Woman's Will
+url: http://www.gutenberg.org/ebooks/27225
