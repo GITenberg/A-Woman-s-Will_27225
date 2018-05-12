@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '6279'
     url: http://www.gutenberg.org/2009/agents/6279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27225#A-Woman-s-Will
 gutenberg_issued: '2008-11-10'
 gutenberg_type: Text
 identifiers:
